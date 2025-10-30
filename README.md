@@ -154,15 +154,3 @@ This project is licensed under the MIT License.
 
 <p align="center"> © 2025 Virat Kumar | Made with ❤️ by <strong>Virat</strong><br/> <a href="https://virat-portfolio-personal.vercel.app">Portfolio</a> • <a href="https://github.com/ViratKumarr">GitHub</a> • <a href="https://www.linkedin.com/in/viratkumar04/">LinkedIn</a> </p> ```
 
-✅ Steps to Use
-
-Copy this entire content into your root README.md.
-
-(Optional) Create an /assets folder in your repo and upload screenshots (product-page.png, etc.).
-
-Then run:
-
-git add README.md
-git commit -m "Added professional project README"
-git push
-
