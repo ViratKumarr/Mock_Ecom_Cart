@@ -8,7 +8,7 @@
     A fully functional full-stack <strong>shopping cart application</strong> built using <strong>React.js, Node.js, Express, and MongoDB</strong> for the <em>Full Stack Internship Assignment</em> at <strong>Nexora</strong>.
   </p>
 
-  ![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/main/assets/mock-cart-banner.png)
+  ![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/369a105f679e63d0ca7d61909950070bee972f6e/Screenshot%202025-10-30%20163545.png)
 </div>
 
 ---
@@ -123,7 +123,7 @@ npm run dev
 📸 Screenshots:
 
 🏠 Product Listing
-![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/main/assets/mock-cart-banner.png)
+![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/369a105f679e63d0ca7d61909950070bee972f6e/Screenshot%202025-10-30%20163545.png)
 
 🛒 Cart Page
 ![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/main/assets/mock-cart-banner.png)
