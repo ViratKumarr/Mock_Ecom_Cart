@@ -129,7 +129,7 @@ npm run dev
 ![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/13ee061802592c708156f325420b94d4b6eb502c/Screenshot%202025-10-30%20163608.png)
 
 💳 Checkout Page
-![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/main/assets/mock-cart-banner.png)
+![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/1b2f72166e47be5c694161e601a3216ae86c2f7a/Screenshot%202025-10-30%20164454.png)
 
 🧑‍💻 Developer Notes:
 Modular and scalable project architecture
