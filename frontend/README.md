@@ -1,65 +1,58 @@
-# Shopping Cart Frontend
+# 🛍️ Mock E-Com Cart — Frontend
 
-React + Vite + TailwindCSS frontend for the shopping cart application.
-
-## 🚀 Quick Start
-
-```bash
-npm install
-npm run dev
-```
-
-Visit `http://localhost:5173`
-
-## 📦 Scripts
-
-- `npm run dev` - Start development server (port 5173)
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-
-## 🎨 UI Components
-
-### Pages
-- **Home** - Product grid with add to cart functionality
-- **Cart** - Shopping cart with quantity controls
-- **Checkout** - Checkout form and receipt modal
-
-### Components
-- **ProductCard** - Displays product with image, price, and add button
-- **CartItem** - Cart item with quantity controls and remove button
-- **CheckoutModal** - Two-step modal for checkout form and receipt
-
-## 🔧 Configuration
-
-### Vite
-- Port: 5173
-- Proxy: `/api` routes to `http://localhost:5000`
-
-### TailwindCSS
-- Primary color: Teal (`#14b8a6`)
-- Custom utility classes in `index.css`
-
-## 🌐 API Integration
-
-All API calls are centralized in `src/api.js` using Axios.
-
-Ensure backend server is running on port 5000.
-
-## 📱 Responsive Design
-
-- Mobile: Single column product grid
-- Tablet: 2 columns
-- Desktop: 3-4 columns
-
-## 🎯 Key Features
-
-- Real-time cart badge updates
-- Loading spinners for async operations
-- Error handling with user feedback
-- Smooth transitions and hover effects
-- Sticky navigation header
-- Empty state designs
+A modern and responsive e-commerce shopping cart frontend built with **React 18**, **Vite**, **TailwindCSS**, and **Axios**.  
+This frontend interacts with the backend REST API (Node.js + Express + MongoDB) to deliver a seamless shopping experience.
 
 ---
 
-Built with ⚡ Vite and 💙 React
+## 🚀 Features
+
+- **Product Listing** — Fetches products from backend or Fake Store API  
+- **Add to Cart / Remove from Cart** — Smooth cart interactions with live updates  
+- **Persistent Cart** — Cart data linked to a mock user and stored in MongoDB  
+- **Checkout Modal** — Mock checkout with receipt generation  
+- **Responsive Design** — Optimized for mobile, tablet, and desktop  
+- **TailwindCSS UI** — Clean, minimal, and animated interface  
+- **Error Handling** — Graceful fallback UI for API or network errors  
+
+---
+
+## 🧩 Tech Stack
+
+- ⚛️ **React 18** — Component-based UI  
+- ⚡ **Vite** — Blazing-fast build tool  
+- 🎨 **TailwindCSS** — Utility-first CSS framework  
+- 🔄 **Axios** — For REST API communication  
+- 🧭 **React Router DOM** — Client-side navigation  
+
+---
+
+## 📁 Folder Structure
+
+frontend/
+├── src/
+│ ├── api.js # Axios API client
+│ ├── App.jsx # Main app component
+│ ├── main.jsx # React entry point
+│ ├── index.css # Global styles
+│ ├── components/
+│ │ ├── ProductCard.jsx # Product display card
+│ │ ├── CartItem.jsx # Cart item UI
+│ │ └── CheckoutModal.jsx # Checkout modal
+│ └── pages/
+│ ├── Home.jsx # Product list page
+│ ├── Cart.jsx # Cart page
+│ └── Checkout.jsx # Mock checkout page
+├── index.html
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+
+---
+
+## ⚙️ Setup & Installation
+
+### 1️⃣ Navigate to the frontend folder
+```bash
+cd frontend
+
