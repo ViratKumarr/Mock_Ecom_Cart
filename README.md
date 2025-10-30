@@ -126,7 +126,7 @@ npm run dev
 ![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/369a105f679e63d0ca7d61909950070bee972f6e/Screenshot%202025-10-30%20163545.png)
 
 🛒 Cart Page
-![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/main/assets/mock-cart-banner.png)
+![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/13ee061802592c708156f325420b94d4b6eb502c/Screenshot%202025-10-30%20163608.png)
 
 💳 Checkout Page
 ![image alt](https://github.com/ViratKumarr/Mock_Ecom_Cart/blob/main/assets/mock-cart-banner.png)
